@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+dist/
+.vite/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+.env.*.local
+
+# PHP
+vendor/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
